@@ -2,3 +2,4 @@
 dummy-repo-for-git-cli
 commit 1
 dummy
+dummy
